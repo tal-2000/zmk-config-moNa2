@@ -57,16 +57,12 @@
 公式ではlofree ghostが推奨されています。
 
 著者はリニア＆軽いキータッチが好みなので、お薦めされているlofree製のうちlofree Hadesを選びました。
-42キーなので予備1つの43個を約1万円で購入しました。著者は[lofree公式サイト](https://lofree.co.jp/products/hades-low-profile-pom-switches)で購入しました.
+42キーなので予備1つの43個を[lofree公式サイト](https://lofree.co.jp/products/hades-low-profile-pom-switches)で約1万円で購入しました。
 
 
 あとはM2ネジを締めるための精密ドライバが必要です。
 
 その他に準備すると快適になるものが[moNa2詳細説明](https://github.com/sayu-hub/zmk-config-moNa2)などに挙げられています。興味があれば購入を検討してみてください。
-
-#### 販売方法について
-moNaの販売はboothを用いて行います。
-[販売ページはこちら](https://shakupan.booth.pm/items/6376654)
 
 
 ## 3. キーマップ編集環境の構築
