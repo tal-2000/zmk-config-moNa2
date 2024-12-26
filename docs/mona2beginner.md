@@ -68,7 +68,7 @@
 moNa2は42キーなので、予備1つ合わせ43個のHadesスイッチを[lofree公式サイト](https://lofree.co.jp/products/hades-low-profile-pom-switches)で約1万円で購入しました。  
 <br>
 
-あとはM2ネジを締めるための精密ドライバが必要です。  
+あとはPCと接続するUSB-Cケーブルと、M2ネジを締めるための精密ドライバを準備すればOKです。  
 <br>
 
 その他に準備すると快適になるものが[moNa2詳細説明](https://github.com/sayu-hub/zmk-config-moNa2)などに挙げられています。  
