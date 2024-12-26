@@ -96,7 +96,7 @@ GitHubのアカウントを持っていなければ[新規作成（sign up）](h
 
 - #### [moNa2(右手トラボ版)のファームウェア](https://github.com/sayu-hub/zmk-config-moNa2)
 
-上記にアクセスし、画面左上にある「fork」ボタンを押し、Ownerが自身のアカウントになっていることを確認して「Creat fork」を押せば入手できます。  
+上記にアクセスし、画面右上にある「fork」ボタンを押し、Ownerが自身のアカウントになっていることを確認して「Creat fork」を押せば入手できます。  
 <br>
 
 ### 3-3. KeymapEditorと連携
