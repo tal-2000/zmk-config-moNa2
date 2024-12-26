@@ -27,6 +27,7 @@
 使用者からのご指摘もお待ちしております。検証のうえ修正します。  
 <br>
 <br>
+<br>
 
 ## 2. 事前準備
 <br>
@@ -82,8 +83,11 @@ moNa2は42キーなので、予備1つ合わせ43個のHadesスイッチを[lofr
 興味があれば購入を検討してみてください。  
 <br>
 <br>
+<br>
 
 ## 3. キーマップ編集環境の構築
+<br>
+
 42キーしかないmoNaでは、レイヤー機能を使って一つのキーに複数の文字種を割り当てる必要があります。  
 この割り当て表がキーマップです。  
 キーマップを自分好みに編集する環境を構築するための手順を記載していきます。  
@@ -91,6 +95,7 @@ moNa2は42キーなので、予備1つ合わせ43個のHadesスイッチを[lofr
 
 ### 3-1. GitHubにログイン
 GitHubのアカウントを持っていなければ[新規作成（sign up）](https://github.com/)します。  
+<br>
 <br>
 
 ### 3-2. ファームウェアを入手
@@ -106,6 +111,7 @@ GitHubのアカウントを持っていなければ[新規作成（sign up）](h
 
 上記にアクセスし、画面右上にある「fork」ボタンを押し、Ownerが自身のアカウントになっていることを確認して「Create fork」を押せば入手できます。  
 <br>
+<br>
 
 ### 3-3. KeymapEditorと連携
 [Keymap Editorのサイト](https://nickcoutsos.github.io/keymap-editor/)へアクセスし、GitHubボタンを押してLoginします。  
@@ -114,6 +120,7 @@ GitHubのアカウントを持っていなければ[新規作成（sign up）](h
 
 以上で準備作業は終了です。  
 インストール後は[Keymap Editorのサイト](https://nickcoutsos.github.io/keymap-editor/)へ再びアクセスすればKeymap Editorが起動します。  
+<br>
 <br>
 <br>
 
