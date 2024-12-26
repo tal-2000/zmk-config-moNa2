@@ -65,7 +65,7 @@
 公式ではlofree ghostが推奨されています。  
 
 著者はリニア＆軽いキータッチが好みなので、お薦めされているlofree製のうちlofree Hadesを選びました。  
-42キーなので予備1つの43個を[lofree公式サイト](https://lofree.co.jp/products/hades-low-profile-pom-switches)で約1万円で購入しました。  
+moNa2は42キーなので、予備1つ合わせ43個のHadesスイッチを[lofree公式サイト](https://lofree.co.jp/products/hades-low-profile-pom-switches)で約1万円で購入しました。  
 <br>
 
 あとはM2ネジを締めるための精密ドライバが必要です。  
