@@ -105,6 +105,7 @@ GitHubのアカウントを持っていなければ[新規作成（sign up）](h
 「Only select repositories」を選び、select repositoriesから先ほどフォークしたMoNa2のファームウェアzmk-config-moNa2を選択してInstall  
 
 以上で準備作業は終了です。  
+インストール後は[Keymap Editorのサイト](https://nickcoutsos.github.io/keymap-editor/)へ再びアクセスすればKeymap Editorが起動します。  
 <br>
 <br>
 
