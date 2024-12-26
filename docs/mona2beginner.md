@@ -69,10 +69,10 @@
 42キーしかないmoNaでは、レイヤー機能を使って一つのキーに複数の文字種を割り当てる必要があります。
 各個人が使いやすいキーマップを編集する環境を構築するための手順を記載していきます。
 
-### 2-1. GitHubにログイン
+### 3-1. GitHubにログイン
 GitHubのアカウントを持っていなければ[新規作成（sign up）](https://github.com/)します。
 
-### 2-2. ファームウェアを入手
+### 3-2. ファームウェアを入手
 次いでmoNa2(右手トラボ版)のファームウェアのリポジトリをフォークします。なんていわれても最初はわけがわかりませんでした。
 > ファームウェア : 「ハードウェアを動かすためのソフト（プログラム）」のこと
 > リポジトリ : 「保管場所」
@@ -84,7 +84,7 @@ GitHubのアカウントを持っていなければ[新規作成（sign up）](h
 
 上記にアクセスし、画面左上にある「fork」ボタンを押し、Ownerが自身のアカウントになっていることを確認して「Creat fork」を押せば入手できます。
 
-### 2-3. Keymap Editorと連携
+### 3-3. Keymap Editorと連携
 [Keymap Editorのサイト](https://nickcoutsos.github.io/keymap-editor/)へアクセスし、GitHubボタンを押してLoginします。
 「Authorize Keymap Editor」ボタンを押し、「Add Repository」ボタンを押す。
 「Only select repositories」を選び、select repositoriesから先ほどフォークしたMoNa2のファームウェアzmk-config-moNa2を選択してInstall
