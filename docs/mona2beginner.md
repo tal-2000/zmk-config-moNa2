@@ -8,7 +8,7 @@
   - [3. キーマップ編集環境の構築](#3-キーマップ編集環境の構築)
     - [3-1. GitHubにログイン](#3-1-GitHubにログイン)
     - [3-2. ファームウェアを入手](#3-2-ファームウェアを入手)
-    - [3-3. Keymap Editorと連携](#3-3-Keymap_Editorと連携)
+    - [3-3. KeymapEditorと連携](#3-3-KeymapEditorと連携)
   - [4. キーマップ編集](#4-キーマップ編集)
 
 
@@ -84,7 +84,7 @@ GitHubのアカウントを持っていなければ[新規作成（sign up）](h
 
 上記にアクセスし、画面左上にある「fork」ボタンを押し、Ownerが自身のアカウントになっていることを確認して「Creat fork」を押せば入手できます。
 
-### 3-3. Keymap Editorと連携
+### 3-3. KeymapEditorと連携
 [Keymap Editorのサイト](https://nickcoutsos.github.io/keymap-editor/)へアクセスし、GitHubボタンを押してLoginします。
 「Authorize Keymap Editor」ボタンを押し、「Add Repository」ボタンを押す。
 「Only select repositories」を選び、select repositoriesから先ほどフォークしたMoNa2のファームウェアzmk-config-moNa2を選択してInstall
@@ -95,5 +95,5 @@ GitHubのアカウントを持っていなければ[新規作成（sign up）](h
 ## 4. キーマップ編集
 ここから先は実機が届いたら追記していく予定です。自身が使いやすいと思う配置を解説していきたいと考えています。
 
-なお、電電猫猫さんのキーマップが記事に提示されていますので参考にしてみてもよいと思います。
+なお、電電猫猫さんのキーマップが[Noteに公開](https://note.com/electrical_cat/n/n4fbec3582384)されています。
 [moNa2のdiscordサーバー](https://discord.gg/kJjDBDHGer)にもkeymapチャンネルが開設されています。
