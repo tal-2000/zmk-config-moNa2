@@ -13,14 +13,17 @@
 
 
 ## 1. この記事は
+<br>
 
-自作キーボード（自キ）とGitHubの両方とも初めての著者が分割キーボードmoNaを導入するまでの記録です。  
+自作キーボードとGitHubの両方とも初めての著者が分割キーボードmoNaを導入するまでの記録です。  
+<br>
 
 > [!CAUTION]
 > 記載内容は商品購入前の時点で書いています。実機がなく全て未検証なので誤りが多数含まれていることが見込まれます。  
 > 記載した情報のご利用は自己責任でお願いします。購入後に判明した誤記は適宜修正していく予定です。  
 > 使用者からのご指摘もお待ちしております。検証のうえ修正します。  
-
+<br>
+<br>
 
 ## 2. moNa2購入前の準備
 
@@ -29,27 +32,30 @@
 数多くの素敵なmoNa紹介記事があります。  
 本当は全てを紹介したいところですが、ここではmoNaを使用するにあたって著者が必ず読むべきと思うものを挙げました。  
 ぜひ他の記事も時間の許す限り目を通すことをおすすめします。  
+<br>
 
-
-#### [分割キーボードmoNaの利用1ヶ月レビュー【自作キーボード】（電電猫猫さん）](https://note.com/electrical_cat/n/n4fbec3582384)
+- #### [分割キーボードmoNaの利用1ヶ月レビュー【自作キーボード】（電電猫猫さん）](https://note.com/electrical_cat/n/n4fbec3582384)
 著者がmoNaを知るきっかけとなった記事。Androidのニュースフィードに表示されていたことから全てが始まりました。  
 詳細なレポートのおかげで使用感などが具体的にイメージできます。必読です。  
+<br>
 
-#### [moNa2詳細説明（pooh_poloさん）](https://github.com/sayu-hub/zmk-config-moNa2)
+- #### [moNa2詳細説明（pooh_poloさん）](https://github.com/sayu-hub/zmk-config-moNa2)
 続いて熟読したのが製作者による商品詳細。  
 商品の組み立て方や後述するファームウェアの操作法などが詳述されており、ここを読めば使えるようになります。  
-製作者お二方のX（[pooh_poloさん](https://x.com/Pooh_pol0)、[shakupanさん](https://x.com/shakupan_/)）や  
-[moNa2のdiscordサーバー](https://discord.gg/kJjDBDHGer)にも有益な情報がちりばめられていますのでご一読することをお勧めします。  
+製作者お二方のX（[pooh_poloさん](https://x.com/Pooh_pol0)、[shakupanさん](https://x.com/shakupan_/)）や[moNa2のdiscordサーバー](https://discord.gg/kJjDBDHGer)にも有益な情報がちりばめられています。  
+<br>
 
-#### [moNa2 のオンボーディング（ぶらきよさん）](https://github.com/sayu-hub/zmk-config-moNa2/blob/main/docs/on-boarding.md)
+- #### [moNa2 のオンボーディング（ぶらきよさん）](https://github.com/sayu-hub/zmk-config-moNa2/blob/main/docs/on-boarding.md)
 商品到着からキーマップ変更までの流れが細かく記述されています。ここを読めば設定が完了します。必ず読んでください。  
 ぶらきよさんの記事で理解できるなら本記事を読む必要はありません。  
-
-これから記載する内容moNa2詳細説明とぶらきよさんの二番煎じのようなものです。  
-
+これから記載する内容はmoNa2詳細説明とぶらきよさんの二番煎じのようなものです。  
+<br>
+<br>
 
 ### 2-2. 事前に買ったもの
+
 キースイッチを別途購入する必要があります。  
+<br>
 
 キースイッチとはキーキャップ（QWERTYなどと印字がある一つ一つのパーツのことです）と基盤の間にある文字通りスイッチです。  
 様々な製品があるようで、何を買えばよいのか最初はわかりませんでした。  
@@ -59,19 +65,24 @@
 著者はリニア＆軽いキータッチが好みなので、お薦めされているlofree製のうちlofree Hadesを選びました。  
 42キーなので予備1つの43個を[lofree公式サイト](https://lofree.co.jp/products/hades-low-profile-pom-switches)で約1万円で購入しました。  
 
+<br>
 
 あとはM2ネジを締めるための精密ドライバが必要です。  
+<br>
 
 その他に準備すると快適になるものが[moNa2詳細説明](https://github.com/sayu-hub/zmk-config-moNa2)などに挙げられています。  
 興味があれば購入を検討してみてください。  
-
+<br>
+<br>
 
 ## 3. キーマップ編集環境の構築
 42キーしかないmoNaでは、レイヤー機能を使って一つのキーに複数の文字種を割り当てる必要があります。  
 各個人が使いやすいキーマップを編集する環境を構築するための手順を記載していきます。  
+<br>
 
 ### 3-1. GitHubにログイン
 GitHubのアカウントを持っていなければ[新規作成（sign up）](https://github.com/)します。  
+<br>
 
 ### 3-2. ファームウェアを入手
 次いでmoNa2(右手トラボ版)のファームウェアのリポジトリをフォークします。なんていわれても最初はわけがわかりませんでした。  
@@ -80,10 +91,13 @@ GitHubのアカウントを持っていなければ[新規作成（sign up）](h
 > フォーク : 「つながりを保ちつつコピペ」  
 
 つまり公開されているソフトを自分のGithubアカウント上にコピーしてカスタマイズする、といった意味合いになります。  
+<br>
 
-#### [moNa2(右手トラボ版)のファームウェア](https://github.com/sayu-hub/zmk-config-moNa2)
+- #### [moNa2(右手トラボ版)のファームウェア](https://github.com/sayu-hub/zmk-config-moNa2)
 
 上記にアクセスし、画面左上にある「fork」ボタンを押し、Ownerが自身のアカウントになっていることを確認して「Creat fork」を押せば入手できます。  
+<br>
+
 
 ### 3-3. KeymapEditorと連携
 [Keymap Editorのサイト](https://nickcoutsos.github.io/keymap-editor/)へアクセスし、GitHubボタンを押してLoginします。  
@@ -91,6 +105,10 @@ GitHubのアカウントを持っていなければ[新規作成（sign up）](h
 「Only select repositories」を選び、select repositoriesから先ほどフォークしたMoNa2のファームウェアzmk-config-moNa2を選択してInstall  
 
 以上で準備作業は終了です。  
+<br>
+
+<br>
+
 
 
 ## 4. キーマップ編集
