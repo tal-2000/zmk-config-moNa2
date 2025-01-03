@@ -50,7 +50,7 @@
 
 公式では[lofree ghost](https://lofree.co.jp/products/ghost-low-profile-pom-switches)が推奨されています。
 
-著者はリニア＆軽いキータッチが好みなので、お薦めされているlofree製のうち[lofree Hades](https://lofree.co.jp/products/hades-low-profile-pom-switches)を選びました。  
+著者はリニアが好みで仕事でも使えるよう静かなタイピングがよいと考え、お薦めされているlofree製のうち[lofree Hades](https://lofree.co.jp/products/hades-low-profile-pom-switches)を選びました。  
 moNa2は42キーなので、予備1つ合わせ43個のHadesスイッチを[lofree公式サイト](https://lofree.co.jp/collections/switch)で約1万円で購入しました。
 
 あとはPCと接続するUSB-Cケーブルと、M2ネジを締めるための精密ドライバを準備すればOKです。
