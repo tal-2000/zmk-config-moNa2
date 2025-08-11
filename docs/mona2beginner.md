@@ -36,15 +36,16 @@
 ### 2-2. 事前に買ったもの
 
 キースイッチを別途用意する必要があります。
-
-キースイッチとはキーキャップと基盤の間にある文字通りスイッチのことです。  
+> キースイッチとはキーキャップと基盤の間にある文字通りスイッチのことです。
 様々な製品があり、何を買えばよいのか最初はわかりませんでした。
 
 公式では[lofree ghost](https://lofree.co.jp/products/ghost-low-profile-pom-switches)が推奨されています。
 
 著者はリニアが好みで仕事でも使えるよう静かなタイピングがよいと考え、お薦めされているlofree製のうち[lofree Hades](https://lofree.co.jp/products/hades-low-profile-pom-switches)を選びました。
+
 moNa2は42キーなので、予備1つ合わせ43個のHadesスイッチを[lofree公式サイト](https://lofree.co.jp/collections/switch)で約1万円で購入しました。
 
+> その後[遊舎工房](https://shop.yushakobo.jp/)でたくさんカチャカチャし、[Kailhロープロファイルスイッチ Pink軸(リニア、20gf)](https://shop.yushakobo.jp/products/pg1350?variant=44079245721831)が今は気になっています。いつか買って試したいな。
 
 
 あとは充電用のUSB-Cケーブルを準備すればOKです。著者はUSB-Cコネクタの破損防止目的で[マグネットケーブル](https://www.amazon.co.jp/dp/B0CHW687QW)と[マグネットコネクタ](http://www.amazon.co.jp/B0CNQW4KBB)（※1個はケーブルに同梱されているので1個だけ買う）を購入しました。
