@@ -49,7 +49,7 @@ moNa2は42キーなので、予備1つ合わせ43個のHadesスイッチを[lofr
 > その後[遊舎工房](https://shop.yushakobo.jp/)でたくさんカチャカチャし、[Kailhロープロファイルスイッチ Pink軸(リニア、20gf)](https://shop.yushakobo.jp/products/pg1350?variant=44079245721831)が今は気になっています。いつか買って試したいな。
 
 
-あとは充電用のUSB-Cケーブルを準備すればOKです。著者はUSB-Cコネクタの破損防止目的で[マグネットケーブル](https://www.amazon.co.jp/dp/B0CHW687QW)と[マグネットコネクタ](http://www.amazon.co.jp/B0CNQW4KBB)（※1個はケーブルに同梱されているので1個だけ買う）を購入しました。
+あとは充電用のUSB-Cケーブルを準備すればOKです。著者はUSB-Cコネクタの破損防止目的で[マグネットケーブル](https://www.amazon.co.jp/dp/B0CHW687QW)と[マグネットコネクタ](http://www.amazon.co.jp/B0CNQW4KBB)（※ケーブルに1個同梱されているので1個だけ買う）を購入しました。
 
 そのほかにmoNa利用に必須ではないが準備すると快適になるものが[moNa2詳細説明](https://github.com/sayu-hub/zmk-config-moNa2)などに挙げられています。
 興味があれば購入を検討してみてください。
