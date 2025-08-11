@@ -37,6 +37,7 @@
 
 キースイッチを別途用意する必要があります。
 > キースイッチとはキーキャップと基盤の間にある文字通りスイッチのことです。
+
 様々な製品があり、何を買えばよいのか最初はわかりませんでした。
 
 公式では[lofree ghost](https://lofree.co.jp/products/ghost-low-profile-pom-switches)が推奨されています。
