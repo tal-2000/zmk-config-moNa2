@@ -84,7 +84,21 @@ GitHubのアカウントを持っていなければ[新規作成（sign up）](h
 インストール後は[Keymap Editorのサイト](https://nickcoutsos.github.io/keymap-editor/)へ再びアクセスすればKeymap Editorが起動します。
 
 ## 4. キーマップ編集
-ここから先は実機が届いたら追記していく予定です。自身が使いやすいと思う配置を解説していきたいと考えています。
+> [!NOTE]
+> 熾烈な購入戦に半年間負け続けた末に、ついに2025年8月4日にmoNa2 whiteを購入しました！
 
-なお、電電猫猫さんのキーマップが[Noteに公開](https://note.com/electrical_cat/n/n4fbec3582384)されています。
+ねんがんのmoNa2をてにいれたので、引き続き設定を進めていきます。
+
+### 4-1. 自身のforkを最新にする
+私のようにforkから時間があいた場合は、まず古くなってしまった自身のforkを制作者sayuさんが公開している最新のものにupdateします。
+
+自身の「zmk-config-moNa2」トップ画面右側にある「Sync fork」ボタンを押します。
+
+「Update branch」ボタンがあれば押すと変更を取り込んでくれます。
+ボタンがなければ最新版なので何もせず次へ進みます。
+
+### 4-2. 
+
+
+電電猫猫さんのキーマップが[Noteに公開](https://note.com/electrical_cat/n/n4fbec3582384)されています。
 [moNa2のdiscordサーバー](https://discord.gg/kJjDBDHGer)にもkeymapチャンネルが開設されています。
