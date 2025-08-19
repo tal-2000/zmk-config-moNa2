@@ -97,7 +97,10 @@ GitHubのアカウントを持っていなければ[新規作成（sign up）](h
 「Update branch」ボタンがあれば押すと変更を取り込んでくれます。
 ボタンがなければ最新版なので何もせず次へ進みます。
 
-### 4-2. 
+### 4-2. キーマップを編集する
+[Keymap Editorのサイト](https://nickcoutsos.github.io/keymap-editor/)へアクセスします。
+
+
 
 
 電電猫猫さんのキーマップが[Noteに公開](https://note.com/electrical_cat/n/n4fbec3582384)されています。
